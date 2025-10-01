@@ -34,18 +34,18 @@
 ## GITHuB 数据
 
 <div align="center">
-  <img src="https://readme.kemeow.top/api/?username=zsxsw&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="GitHub Stats" />
+  <img src="https://readme.kemeow.top/api/?username=zsxjun&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="GitHub Stats" />
 </div>
 
 <p align="center">
   <a>
-    <img src="https://activity.kemeow.top/graph?username=zsxsw&custom_title=克喵的热力图&hide_border=true" alt="Activity">
+    <img src="https://activity.kemeow.top/graph?username=zsxjun&custom_title=克喵的热力图&hide_border=true" alt="Activity">
   </a>
 </p>
 
 <div align="center">
   <img 
-    src="https://github-immortality.vercel.app/api?username=zsxsw&theme=github-compact&custom_title=Immortality&radius=30&height=300" 
+    src="https://github-immortality.vercel.app/api?username=zsxjun&theme=github-compact&custom_title=Immortality&radius=30&height=300" 
     alt="修仙系列统计卡片" 
     style="max-width: 100%; height: auto;" 
   />

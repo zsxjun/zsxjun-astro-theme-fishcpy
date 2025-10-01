@@ -7,8 +7,8 @@ import MainGridLayout from "../layouts/MainGridLayout.astro";
 import { marked } from "marked";
 
 /* ===== 1. 拉取数据 ===== */
-const EDIT_URL = "https://github.com/zsxsw/github-issues-moments/issues/1";
-const API      = "https://github-api.zhzsx.cn/api/comments";
+const EDIT_URL = "https://github.com/zsxjun/github-issues-moments/issues";
+const API      = "https://api.zhzsx.cn/?repo=zsxjun/github-issues-moments&per_page=2";
 
 let essays: any[] = [];
 try {

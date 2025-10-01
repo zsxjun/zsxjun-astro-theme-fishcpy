@@ -135,7 +135,7 @@ async function handle(req, env) {
 然后再搞个自定义域名，然后在后面加后缀`/api/comments`，你就能比较不受限制的观看动态了，
 
 ## 前端
-接下来就是我自己搞的一个html的简单[前端](https://github.com/zsxsw/github-issues-moments)，靠着AI完善了一下，可以参考参考: 
+接下来就是我自己搞的一个html的简单[前端](https://github.com/zsxjun/github-issues-moments)，靠着AI完善了一下，可以参考参考: 
 ```html
 <!DOCTYPE html>
 <html lang="zh-CN">
@@ -530,7 +530,7 @@ async function handle(req, env) {
 
     <div class="giscus-container"></div>
 
-    <a href="https://github.com/zsxsw/github-issues-moments/issues/1" target="_blank" class="edit-btn" title="添加/编辑说说">✏️</a>
+    <a href="https://github.com/zsxjun/github-issues-moments/issues/1" target="_blank" class="edit-btn" title="添加/编辑说说">✏️</a>
 
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js "></script>
     <script>
@@ -546,7 +546,7 @@ async function handle(req, env) {
             script.src = 'https://giscus.app/client.js ';
             script.async = true;
             script.setAttribute('crossorigin', 'anonymous');
-            script.setAttribute('data-repo', 'zsxsw/github-issues-moments');
+            script.setAttribute('data-repo', 'zsxjun/github-issues-moments');
             script.setAttribute('data-repo-id', 'R_kgDOP0jWOA');
             script.setAttribute('data-category', 'Announcements');
             script.setAttribute('data-category-id', 'DIC_kwDOP0jWOM4Cvv6S');
@@ -649,7 +649,7 @@ async function handle(req, env) {
                     <header class="article-header">
                         <img class="avatar" src="${c.user.avatar_url}" alt="${c.user.login}" onerror="this.src='https://avatars.githubusercontent.com/u/0?s=80&v=4 '">
                         <div class="user-info">
-                            <div class="user-name">钟神秀@zsxsw</div>
+                            <div class="user-name">钟神秀@zsxjun</div>
                             <div class="post-time">${formatTime(c.created_at)}</div>
                         </div>
                     </header>
